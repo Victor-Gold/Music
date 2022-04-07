@@ -1,0 +1,29 @@
+.container-fluid {
+    text-align: center;
+    float: right;
+}
+
+h2 {
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-weight: 400;
+    color: #5a5a5a;
+    font-size: 3rem;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+.row {
+    padding: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    margin: 5%;
+}
